@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: Create Evaluation Smoke Test Feature
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 18.302 s <<< FAILURE! - in Create Evaluation Smoke Test Feature
+Verify Google Home Page Title(Create Evaluation Smoke Test Feature)  Time elapsed: 10.085 s  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<["Google"]> but was:<[Google]>
+
+Verify Google Home Page Title(Create Evaluation Smoke Test Feature)  Time elapsed: 6.738 s  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<["Google"]> but was:<[Google]>
+

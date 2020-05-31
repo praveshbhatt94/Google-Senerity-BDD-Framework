@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Create Evaluation Smoke Test Feature" skipped="0" tests="1" time="18.29" timestamp="2020-05-31 10:32:02"><testcase name="Verify Google Home Page Title"><failure message="expected:&lt;[&quot;Google&quot;]&gt; but was:&lt;[Google]&gt;" type="java.lang.AssertionError">expected:&lt;["Google"]&gt; but was:&lt;[Google]&gt;</failure><system-err>expected:&lt;["Google"]&gt; but was:&lt;[Google]&gt;&#13;
+junit.framework.Assert.assertEquals(Assert.java:100)&#13;
+junit.framework.Assert.assertEquals(Assert.java:107)&#13;
+google_example.example.google.ui.steps.GoogleHomePage.verifyTitle(GoogleHomePage.java:39)&#13;
+google_example.example.google.ui.stepDefinations.GoogleStepDefination.something_title_should_show(GoogleStepDefination.java:32)&#13;
+✽."Google" Title should show(classpath:features/ui_feature/SmokeSuite/searchText.feature:5)&#13;
+</system-err></testcase></testsuite>
